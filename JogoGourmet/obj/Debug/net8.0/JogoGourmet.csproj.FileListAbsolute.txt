@@ -1,0 +1,14 @@
+C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\bin\Debug\net8.0\JogoGourmet.exe
+C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\bin\Debug\net8.0\JogoGourmet.deps.json
+C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\bin\Debug\net8.0\JogoGourmet.runtimeconfig.json
+C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\bin\Debug\net8.0\JogoGourmet.dll
+C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\bin\Debug\net8.0\JogoGourmet.pdb
+C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\obj\Debug\net8.0\JogoGourmet.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\obj\Debug\net8.0\JogoGourmet.AssemblyInfoInputs.cache
+C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\obj\Debug\net8.0\JogoGourmet.AssemblyInfo.cs
+C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\obj\Debug\net8.0\JogoGourmet.csproj.CoreCompileInputs.cache
+C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\obj\Debug\net8.0\JogoGourmet.dll
+C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\obj\Debug\net8.0\refint\JogoGourmet.dll
+C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\obj\Debug\net8.0\JogoGourmet.pdb
+C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\obj\Debug\net8.0\JogoGourmet.genruntimeconfig.cache
+C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\obj\Debug\net8.0\ref\JogoGourmet.dll
