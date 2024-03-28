@@ -12,3 +12,4 @@ C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\obj\Debug\net8.0\refint\JogoGourme
 C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\obj\Debug\net8.0\JogoGourmet.pdb
 C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\obj\Debug\net8.0\JogoGourmet.genruntimeconfig.cache
 C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\obj\Debug\net8.0\ref\JogoGourmet.dll
+C:\PROJETOS\Objective\JogoGourmet\JogoGourmet\obj\Debug\net8.0\JogoGourmet.sourcelink.json

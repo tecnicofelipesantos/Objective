@@ -1,4 +1,4 @@
-﻿namespace JogoGourmet.@class
+﻿namespace JogoGourmet.classes
 {
     public class Prato
     {

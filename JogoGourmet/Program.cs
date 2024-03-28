@@ -1,5 +1,4 @@
-﻿using JogoGourmet.@class;
-using JogoGourmet.classes;
+﻿using JogoGourmet.classes;
 using Microsoft.VisualBasic;
 using System.Windows.Forms;
 
